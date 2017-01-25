@@ -1,6 +1,6 @@
 /**
- * mapsitfree 
- * A framework for the mapsitfree website, by Tim Lawton.
+ * mapitfree 
+ * A framework for the mapitfree website, by Tim Lawton.
  * 
  * 
  * Free to use under the MIT License.
